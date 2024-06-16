@@ -528,7 +528,11 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height:85vh;
+  height:auto;
+}
+.header-img{
+  max-width: 100%;
+  height: 85vh;
 }
 
 .img-thumbnail {
